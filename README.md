@@ -7,3 +7,14 @@ This project analyzes food delivery data to uncover business insights related to
 ## Status
 
 🚧 Project in Progress
+
+## Dataset
+
+The original dataset is too large to store in this repository.
+
+Download it from:
+https://www.kaggle.com/datasets/cbhavik/swiggyzomato-order-information
+
+After downloading, place the CSV files inside:
+
+data/raw/
